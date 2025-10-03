@@ -1,54 +1,14 @@
-# Hi there, I'm Iqra 👋  
+# 💫 About Me:
+- 🔭 I’m currently working on **AI & Cybersecurity projects**  <br>- 🌱 Learning **DSA**, **Networking**, and **Cloud Security**  <br>- 👯 I’m looking to collaborate on **open-source projects**  <br>- 💬 Ask me about **Python, Tkinter, Networking, Cybersecurity basics**  <br>- ⚡ Fun fact: I love tulips 🌷, the ocean 🌊, and the night sky 🌌 
 
-🎓 3rd Year **Computer Science Student** at *Jinnah University for Women, Karachi*  
-💻 Passionate about **AI**, **Cyber Security**, and solving real-world problems with tech  
-🌱 Currently exploring **Machine Learning**, **Networking**, and **Penetration Testing**  
-✨ I love building projects that are practical, creative, and helpful!  
-
----
-
-## 🚀 About Me
-- 🔭 I’m currently working on **AI & Cybersecurity projects**  
-- 🌱 Learning **DSA**, **Networking**, and **Cloud Security**  
-- 👯 I’m looking to collaborate on **open-source projects**  
-- 💬 Ask me about **Python, Tkinter, Networking, Cybersecurity basics**  
-- ⚡ Fun fact: I love tulips 🌷, the ocean 🌊, and the night sky 🌌  
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Iqra-Junejo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Iqra-Junejo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Iqra-Junejo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Iqra-Junejo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Skills & Tools  
-
-- **Languages**: Python, C, C++  
-- **Web**: HTML, CSS, (Flask/Django basics)  
-- **AI/ML**: (scikit-learn, TensorFlow, add if you’ve used)  
-- **Cyber Security**: TryHackMe Labs, Secure Code Review, Networking (TCP/UDP)  
-- **Tools**: Git & GitHub, VS Code, Linux  
-
----
-
-## 📌 Featured Projects  
-
-- 🤖 [FAQ Chatbot](https://github.com/Iqra-Junejo/FAQ_Chatbot) — Intelligent chatbot for FAQs  
-- 🌐 [Language Translator](https://github.com/Iqra-Junejo/Language-translator) — Multi-language translator built with Python & Tkinter  
-- 🔒 [Secure Code Review](https://github.com/Iqra-Junejo/SecureCodeReview) — Code vulnerability scanning project  
-- 📡 [TCP/UDP Socket Programming](https://github.com/Iqra-Junejo/TCP-UDP-Socket) — Networking practice in Python  
-
-👉 *Check out more of my work in my [repositories](https://github.com/Iqra-Junejo?tab=repositories).*  
-
----
-
-## 📊 GitHub Stats  
-
-[![Iqra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iqra-Junejo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iqra-Junejo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 📫 Connect With Me  
-
-- GitHub: [@Iqra-Junejo](https://github.com/Iqra-Junejo)  
----
-
-⭐ *Thanks for visiting my profile! Feel free to check out my projects and connect with me.*  
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
